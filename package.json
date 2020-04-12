@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/ericliang/protobufjs.wechat/issues"
   },
-  "homepage": "https://github.com/ericliang/protobufjs.wechat#readme"
+  "homepage": "https://github.com/ericliang/protobufjs.wechat#readme",
+  "dependencies": {
+    "long": "^4.0.0"
+  }
 }
