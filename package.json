@@ -1,0 +1,28 @@
+{
+  "name": "protobufjs",
+  "version": "1.0.0",
+  "description": "Protobuf JS library for Wechat Miniprogram",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericliang/protobufjs.wechat.git"
+  },
+  "keywords": [
+    "微信小程序",
+    "Wechat",
+    "Miniprogram",
+    "protobuf.js"
+  ],
+  "author": "Eric Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericliang/protobufjs.wechat/issues"
+  },
+  "homepage": "https://github.com/ericliang/protobufjs.wechat#readme"
+}
