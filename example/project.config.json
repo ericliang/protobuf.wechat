@@ -9,8 +9,10 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.6.6",
-	"appid": "wx3f1cea6346e2005e",
-	"projectname": "wxProtocoBuffer",
+	"appid": "wx8a1d2c6d66e81683",
+	"projectname": "Protobufjs.wechat%20Example",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
