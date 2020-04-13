@@ -39,4 +39,12 @@ $ npm install -S --production ericliang/protobufjs.wechat
 ```
 3. 在微信小程序 IDE 菜单栏，选择「工具」，在点击「构建 NPM」，可以发现在 node_modules 同级目录中生成了 miniprogram_npm 的文件夹，那就大功告成啦。
 
+### 如果依然报错： component is not found in path
+
+检查 project.config.json 与 example 一致，重点检查两项，也就是 IDE 中的项目详情：
+
+1. 确认勾选「启用 NPM 模块」；
+2. 确认库版本号选择：2.10.4（或更高）;
+
+
 祝玩得开心。
