@@ -12,5 +12,8 @@
     "example"
   ],
   "author": "eric@bmxlabs.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "protobufjs": "github:ericliang/protobufjs.wechat"
+  }
 }
