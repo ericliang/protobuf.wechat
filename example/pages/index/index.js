@@ -46,7 +46,6 @@ Page({
         }
       })
     }
-      require('../../testPb/testProtocoBuffer');
   },
   getUserInfo: function(e) {
     console.log(e);

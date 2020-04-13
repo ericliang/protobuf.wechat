@@ -1,5 +1,10 @@
 //logs.js
-const util = require('../../utils/util.js')
+const util = require('./util.js');
+
+import protobuf from 'protobufjs';
+import jsonDescriptor from './awesome';
+var root = protobuf.Root.fromJSON(jsonDescriptor);
+const msg = root.lookupType("AwesomeMessage");
 
 Page({
   data: {

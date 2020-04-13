@@ -15,5 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "protobufjs": "github:ericliang/protobufjs.wechat"
-  }
+  },
+  "devDependencies": {}
 }

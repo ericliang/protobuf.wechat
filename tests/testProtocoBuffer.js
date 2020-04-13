@@ -2,11 +2,11 @@
  * Created by zhangmiao on 2018/3/15.
  */
 
+import protobuf from 'protobufjs';
 
 const app = getApp();
 //var AwesomeMessage;
-var util = require('../weichatPb/src/util.js');
-var protobuf = require('protobufjs');
+var util = require('protobufjs/util');
 app.globalData._protobuf = protobuf;
 
 //awesome
