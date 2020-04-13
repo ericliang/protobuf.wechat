@@ -1,0 +1,16 @@
+{
+  "name": "protobufjs.wechat.example",
+  "version": "1.0.0",
+  "description": "Wechat miniprogram example of using protobufjs.wechat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "微信小程序",
+    "protobufjs",
+    "example"
+  ],
+  "author": "eric@bmxlabs.com",
+  "license": "ISC"
+}
