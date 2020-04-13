@@ -6,7 +6,7 @@
 const app = getApp();
 //var AwesomeMessage;
 var util = require('../weichatPb/src/util.js');
-var protobuf = require('../weichatPb/protobuf.js');
+var protobuf = require('protobufjs');
 app.globalData._protobuf = protobuf;
 
 //awesome
